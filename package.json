@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mobi2go",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides Mobi2Go's .eslintrc as an extensible shared config.",
   "main": "index.js",
   "scripts": {
