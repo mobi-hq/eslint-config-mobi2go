@@ -8,5 +8,6 @@ module.exports = {
     rules: {
         camelcase: 'off',
         'no-underscore-dangle': 'off',
+        'no-param-reassign': ['error', { props: false }],
     },
 };
