@@ -1,6 +1,7 @@
 module.exports = {
     extends: [
         'eslint-config-airbnb',
+        'plugin:react/recommended',
         'plugin:import/errors',
         'plugin:import/warnings',
         'plugin:compat/recommended',
