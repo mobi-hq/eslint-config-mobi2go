@@ -8,15 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "peerDependencies": {
-    "eslint": "^5.0.0 || ^6.0.0 || ^7.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Mobi2Go/eslint-config-mobi2go.git"
-  },
-  "devDependencies": {
+  "dependencies": {
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-compat": "^3.8.0",
@@ -25,5 +17,12 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "peerDependencies": {
+    "eslint": "^5.0.0 || ^6.0.0 || ^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mobi2Go/eslint-config-mobi2go.git"
   }
 }
