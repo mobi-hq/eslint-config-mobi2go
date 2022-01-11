@@ -11,7 +11,5 @@ module.exports = {
         'eslint-config-mobi2go/rules/react',
         'eslint-config-mobi2go/rules/react-hooks',
         'eslint-config-prettier',
-        'eslint-config-prettier/react',
-        'eslint-config-prettier/@typescript-eslint',
     ],
 };
